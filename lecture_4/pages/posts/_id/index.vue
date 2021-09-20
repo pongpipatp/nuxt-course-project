@@ -23,9 +23,9 @@ export default {
           id: "1",
           title: "First Post (ID: " + context.route.params.id + ")",
           previewText: "This is our first post!",
-          author: 'Maximilian',
+          author: 'Chopper!',
           updatedDate: new Date(),
-          content: 'Some dummy text which is definitely not the preview text though!',
+          content: 'Some dummy text which is definitely not the preview text though! Lorem Lorem Lorem',
           thumbnail:
             "https://static.pexels.com/photos/270348/pexels-photo-270348.jpeg"
         }
